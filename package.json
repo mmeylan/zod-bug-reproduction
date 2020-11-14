@@ -1,0 +1,16 @@
+{
+  "name": "zod-bug-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.0.5",
+    "webpack": "^4.44.2",
+    "zod": "^1.11.10"
+  }
+}
